@@ -64,8 +64,8 @@ while i>-1 or j>-1:
     p=p+1
 print("\nPATH:",a)
 print("\nNUMBER OF UPDATES:",b[0])
-print("\nNUMBER OF UPDATES:",b[1])
-print("\nNUMBER OF UPDATES:",b[2])
+print("\nNUMBER OF INSERT:",b[1])
+print("\nNUMBER OF DELETE:",b[2])
 
     
         

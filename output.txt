@@ -28,6 +28,6 @@ PATH: [[8, 'U'], [8, 'U'], [8, 'U'], [8, 'U'], [8, 'U'], [6, 'D'], [5, 'U'], [5,
 
 NUMBER OF UPDATES: 8
 
-NUMBER OF UPDATES: 1
+NUMBER OF INSERT: 1
 
-NUMBER OF UPDATES: 1
+NUMBER OF DELETE: 1
